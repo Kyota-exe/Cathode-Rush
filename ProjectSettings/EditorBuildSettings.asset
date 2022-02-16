@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Game Jam Levels/Main Menu.unity
+    guid: 97b6daae6a7215442925b99a4db5dfb7
+  - enabled: 0
+    path: Assets/Scenes/Game Jam Levels/Level 1.unity
+    guid: 99a9c6ed3f47a3b4abe0fa86bff4281c
+  - enabled: 0
+    path: Assets/Scenes/Game Jam Levels/Level 2.unity
+    guid: 2f35ef0c805a89e4da79432ac87a2388
+  - enabled: 0
+    path: Assets/Scenes/Game Jam Levels/Level 3.unity
+    guid: 361ee192b5df284439423a2cfb349a09
+  - enabled: 0
+    path: Assets/Scenes/Game Jam Levels/Level 4.unity
+    guid: 714b7ca29dcaacc4f93950d937229233
+  - enabled: 0
+    path: Assets/Scenes/Game Jam Levels/Level 5.unity
+    guid: e49bc57812590c44786b55d633ddb319
+  - enabled: 0
+    path: Assets/Scenes/Game Jam Levels/Level 6.unity
+    guid: ef36325e91440f941bef36edd08c4826
+  - enabled: 0
+    path: Assets/Scenes/Game Jam Levels/Level 7.unity
+    guid: 45bd92d76f2fca140aa33616cca98cd3
+  - enabled: 0
+    path: Assets/Scenes/Game Jam Levels/Level 8.unity
+    guid: 1d79041f2375a084f95319e5a8937ba5
+  - enabled: 0
+    path: Assets/Scenes/Game Jam Levels/Level 10.unity
+    guid: 72eee86abaa206f4fb74adbdabaa7e98
+  - enabled: 0
+    path: Assets/Scenes/Game Jam Levels/Level 12.unity
+    guid: adcd88bfd77cd354d98b81fe8a6a40d6
+  - enabled: 0
+    path: Assets/Scenes/Game Jam Levels/Level 13.unity
+    guid: c29e6aadf7cf9f141ae7114dfdaf81a6
+  - enabled: 0
+    path: Assets/Scenes/Game Jam Levels/Level 9.unity
+    guid: 50d0eaa5a302dde48979533a28fa68f4
+  - enabled: 0
+    path: Assets/Scenes/Game Jam Levels/Level 14.unity
+    guid: 23f095d8233105a4d99b03561ae0c34d
+  - enabled: 0
+    path: Assets/Scenes/Game Jam Levels/Level 15.unity
+    guid: dd44ad2a25e4e3e4e8ccc2cdc0886b99
+  - enabled: 0
+    path: Assets/Scenes/Game Jam Levels/Level 16.unity
+    guid: 844ff4d8fd9564546a79e600db96cbb5
+  - enabled: 0
+    path: Assets/Scenes/End Screen.unity
+    guid: db909ef9667663c42a2efcb13bb815e3
+  - enabled: 1
+    path: Assets/Scenes/Level Design/LevelX.unity
+    guid: f567a4114dc5ff94d89c8baa56717385
+  - enabled: 0
+    path: Assets/Scenes/Sandbox.unity
+    guid: a84fa8cfd6566f14f926bafac65d2988
+  m_configObjects: {}

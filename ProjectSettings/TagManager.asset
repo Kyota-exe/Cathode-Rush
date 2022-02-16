@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Powerup Child
+  - Example Camera
+  - Projectile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Bullet
+  - Player
+  - Powerup
+  - Invisible Wall
+  - Bullet Passthrough
+  - Jump Ring
+  - Only Minimap
+  - Passthrough Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2895981625
+    locked: 0
+  - name: Tutorial
+    uniqueID: 978667223
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Obstacles
+    uniqueID: 3370028399
+    locked: 0
+  - name: Powerups
+    uniqueID: 940725501
+    locked: 0
+  - name: Player
+    uniqueID: 830423171
+    locked: 0
+  - name: Wall of Flesh
+    uniqueID: 3286759943
+    locked: 0
+  - name: Bullet
+    uniqueID: 1171813201
+    locked: 0
